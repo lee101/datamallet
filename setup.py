@@ -37,6 +37,6 @@ setup(
     install_requires=['pandas>=1.1.5',
                       'scikit-learn>=0.24.2',
                       'numpy>=1.19.5',
-                      'scipy==1.5.4',
+                      'scipy>=1.5.4',
                       'plotly>=5.3.1']
 )
